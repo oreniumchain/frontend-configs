@@ -2,13 +2,13 @@
     "title": "Orenium",
     "url": "https://oreniumscan.org/",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/orenium.svg",
     "isActive": true
 },
 {
     "title": "Orenium Testnet",
     "url": "http://testnet.oreniumscan.org",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg"
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/orenium.svg"
 }
 ]
