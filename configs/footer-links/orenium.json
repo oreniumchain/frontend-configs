@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Orenium Protocol",
+        "links": [
+            {
+                "text": "Portal",
+                "url": "https://orenium.org"
+            },
+            {
+                "text": "Mainnet Explorers",
+                "url": "https://oreniumscan.org"
+            },
+            {
+                "text": "Bridges",
+                "url": "https://bridge.orenium.org"
+            },
+            {
+                "text": "Ecosystem",
+                "url": "https://t.me/OreniumProtocol"
+            }
+        ]
+    },
+    {
+        "title": "Resources",
+        "links": [
+            {
+                "text": "Whitepaper",
+                "url": "https://orenium.org/orenium-wp.pdf"
+            },
+            {
+                "text": "Tools",
+                "url": "https://github.com/oreniumchain"
+            },
+            {
+                "text": "Github",
+                "url": "https://github.com/oreniumchain"
+            },
+            {
+                "text": "Validator",
+                "url": "https://validator.orenium.org/"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/OreniumProtocol"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/OreniumProtocol"
+            },
+            {
+                "text": "Blog",
+                "url": "https://medium.com/@oreniumprotocol"
+            }
+        ]
+    },
+    {
+        "title": "Partners",
+        "links": [
+            {
+                "text": "PancakeSwap",
+                "url": "https://pancakeswap.com"
+            },
+            {
+                "text": "Sourcify",
+                "url": "https://sourcify.dev/"
+            },
+            {
+                "text": "DRPC",
+                "url": "https://drpc.org?ref=559183"
+            },
+            {
+                "text": "BlockSec",
+                "url": "https://blocksec.com/"
+            }
+        ]
+    }
+]
